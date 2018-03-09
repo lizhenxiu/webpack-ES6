@@ -3,7 +3,10 @@
 // require('../src/js/let-cost.js')
 // require('../src/js/arrayDestructuring.js')
 // require('../src/js/templateStrings.js')
-require('../src/js/taggedTemplates.js')
+// require('../src/js/taggedTemplates.js')
+// require('../src/js/defaultParameterValues.js')
+require('../src/js/spreadOperator.js')
+
 
 // Accept hot module reloading during development
 if (process.env.NODE_ENV !== 'production') {
