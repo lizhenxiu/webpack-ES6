@@ -5,7 +5,8 @@
 // require('../src/js/templateStrings.js')
 // require('../src/js/taggedTemplates.js')
 // require('../src/js/defaultParameterValues.js')
-require('../src/js/spreadOperator.js')
+// require('../src/js/spreadOperator.js')
+require('../src/js/7.Rest.js')
 
 
 // Accept hot module reloading during development
